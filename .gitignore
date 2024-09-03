@@ -1,0 +1,12 @@
+.env
+*.log
+.DS_Store
+.gitattributes
+*.pyc
+__pycache__/
+Data/
+*.csv
+Datasets/
+Jupyter_Notebooks/
+.yaml
+to_do
